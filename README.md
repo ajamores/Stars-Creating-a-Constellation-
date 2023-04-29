@@ -1,4 +1,4 @@
-#Stars: Creating a Constellation
+#Creating a Constellation of Stars
 
 **COMP-10062**
 **Project Description**
