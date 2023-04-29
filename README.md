@@ -26,7 +26,7 @@ The program uses JavaFX to create a graphical interface for creating a star cons
 
 Usage Example
 
-![Input Number]("C:\Users\aj_am\OneDrive\Pictures\2023-04-29 19_45_04-project1stars – Stars.java.png" – Stars.java.png "Input Amount of Stars")
+![Input Number](C:\Users\aj_am\OneDrive\Pictures\2023-04-29 19_45_04-project1stars – Stars.java.png)
 
 Constellation Example
 **Thank you for checking out my Stars project!**
