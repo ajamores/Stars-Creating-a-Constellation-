@@ -32,6 +32,6 @@ Usage Example
 
 Constellation Example
 
-![Constellation](https://imgur.com/gallery/ST27Cwg)
+![Constellation](https://i.imgur.com/9RWoBoO.png)
 
 **Thank you for checking out my Stars project!**
