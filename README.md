@@ -1,4 +1,4 @@
-## Creating a Constellation of Stars
+# Creating a Constellation of Stars
 
 **COMP-10062**
 **Project Description**
@@ -24,13 +24,13 @@ The program uses JavaFX to create a graphical interface for creating a star cons
 - Name the constellation
 - View the created constellation
 
-Usage Example
+**Usage Example**
 
 ![Input Number](https://i.imgur.com/LMasJKY.png)
 ![Name Constellation](https://i.imgur.com/5iP3Hgc.png)
 ![Enter Co-ordinates](https://i.imgur.com/fADO6vl.png)
 
-Constellation Example
+**Constellation Example**
 
 ![Constellation](https://i.imgur.com/9RWoBoO.png)
 
