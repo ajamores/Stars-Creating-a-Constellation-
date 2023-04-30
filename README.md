@@ -26,7 +26,7 @@ The program uses JavaFX to create a graphical interface for creating a star cons
 
 Usage Example
 
-![Input Number](https://imgur.com/a/e4RJiz2)
+![Input Number]([https://imgur.com/a/e4RJiz2](https://imgur.com/a/e4RJiz2))
 
 Constellation Example
 **Thank you for checking out my Stars project!**
